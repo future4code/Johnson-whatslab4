@@ -1,3 +1,37 @@
+Nome dos integrantes:
+
+Leonardo Mosso Corrêa Villela
+
+Julio Cesar da Silva
+
+Tatiane da Silva Weitzel
+
+Link surge: https://aware-journey.surge.sh/
+
+Relatos: Tivemos dificuldades para dividir as mensagens uma embaixo da outra, isso consumiu muito tempo do nosso projeto. Além disso, não tivemos tempo para a responsividade. Mas todos os problemas em dividir as mensagens uma embaixo da outra e de criar componenentes, trouxeram grande aprendizado e possibilitou-nos um melhor entendimento do uso de funções e classes.
+
+CAPTURAS DE TELA DO COMPUTADOR:
+
+![WhatsApp Image 2021-07-25 at 18 54 01](https://user-images.githubusercontent.com/63753720/126914915-aa60717f-adf5-4d4c-bfac-f4eb7bb1270c.jpeg)
+![WhatsApp Image 2021-07-25 at 18 54 32](https://user-images.githubusercontent.com/63753720/126914916-9dc1421d-e4ec-4d53-a290-ef309bdb9ba8.jpeg)
+![WhatsApp Image 2021-07-25 at 18 56 37](https://user-images.githubusercontent.com/63753720/126914918-1e86aa92-3c9a-4230-8970-93390449a5d7.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
