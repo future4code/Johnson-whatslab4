@@ -1,0 +1,25 @@
+.messagesText {
+  display: block;
+  flex-direction: column;
+  /* background-color: #1d8fe1; */
+  border-radius: 8px;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  position: absolute;
+  right: 30px;
+  top: 50px;
+  align-self: flex-end;
+  color: #f7f7f7;
+  line-height: 25px;
+  text-align: left;
+  /* margin-right: 1.5em ; */
+  /* margin-top: 50px; */
+}
+
+.mensagemUnitaria {
+  margin: 20px;
+  word-wrap: break-word;
+  
+}
+
